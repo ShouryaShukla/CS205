@@ -1,0 +1,1 @@
+Shourya@DESKTOP-SCGA19D:/mnt/c/Users/shourya/CS205$ tail -n5 *.txt | grep -v .txt>allmixedlast5.txt

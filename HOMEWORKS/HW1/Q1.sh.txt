@@ -1,0 +1,1 @@
+Shourya@DESKTOP-SCGA19D:/mnt/c/Users/shourya/CS205$ cat * >allmixed
