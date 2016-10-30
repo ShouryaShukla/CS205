@@ -22,7 +22,8 @@ object HomeW32 {
         
       }
       
-    } throw new IllegalStateException("This should never happen")
+    }
+    return(lstt1,lstt2)
   }
 
 def main(args: Array[String]):Unit ={
